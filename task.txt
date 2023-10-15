@@ -1,0 +1,13 @@
+if(a>b)
+}
+result=a;
+}else
+{
+result=b;
+}
+if(c>result)
+{console.log(c);
+}else
+{
+console.log(result);
+}
